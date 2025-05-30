@@ -2,7 +2,10 @@
 
 An Electron application for importing CSV member data into Fabman.
 
-![Fabman Import Tool](assets/icon-1024.png)
+<div style="display: flex; justify-content: space-between;">
+    <img src="docs/screenshot1.png" width="48%" alt="Fabman Import Tool Screenshot 1">
+    <img src="docs/screenshot2.png" width="48%" alt="Fabman Import Tool Screenshot 2">
+</div>
 
 ## ✨ Features
 
